@@ -15,7 +15,7 @@ role: Ph.D. Candidate in Statistics
 # Organizations/Affiliations
 organizations:
 - name: Kansas State University
-  url: "https://www.k-state.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,7 +31,7 @@ education:
   - course: PhD in Statistics
     institution: Kansas State University
     year: 2015 to the present
-  - course: MSc Applied Statistics
+  - course: MSc in Applied Statistics
     institution: Lanzhou University
     year: 2014
   - course: BSc in Economic Statistics
